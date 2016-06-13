@@ -18,4 +18,5 @@
 ## 特别说明
 + 为了避免版权纠纷，程序不提供下载
 + 防盗链已解决,coding.net可以直接播放（不占用coding流量）
-+ 原作者: [每天进步一点点](http://www.ddhigh.com)  Shadowwalker 将php 改成了 node ,作者是小白, 请下载原版作者, 仅供参考 
++ 原作者: [每天进步一点点](http://www.ddhigh.com) 
++ Shadowwalker 将php 改成了 node ,作者是小白, 请下载原版作者, 仅供参考 
